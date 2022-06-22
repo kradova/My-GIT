@@ -1,1 +1,2 @@
 user 1 added a new file
+user 2 added a new line
